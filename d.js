@@ -18,7 +18,7 @@ window.dictionary.push(
   },
    {
     term: "Desktop",
-    definition: "The desktop is the main window displayed when a user opens a computer. The term "desktop" is usually associated with Microsoft Windows computers."
+    definition: "The desktop is the main window displayed when a user opens a computer. The term \"desktop\" is usually associated with Microsoft Windows computers."
   },
    {
     term: "Device Driver",
