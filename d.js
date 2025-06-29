@@ -10,7 +10,7 @@ window.dictionary.push(
   },
    {
     term: "Default Account",
-    definition: "Default accounts include default administrative and guest accounts configured on servers and networks. A good practice is to rename the MS Windows administrative account. Another good practice is to leave the "root" system owner account unused on UNIX/Linux systems."
+    definition: "Default accounts include default administrative and guest accounts configured on servers and networks. A good practice is to rename the MS Windows administrative account. Another good practice is to leave the \"root\" system owner account unused on UNIX/Linux systems."
   },
    {
     term: "Default Gateway",
