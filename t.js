@@ -34,7 +34,7 @@ window.dictionary.push(
   },
   {
     term: "Touchpad",
-    definition: "A touchpad is an input device used on most laptops to replace the mouse. The touchpad lets the user control the cursor by moving a finger over the pad's surface. Touchpads can have buttons, recognize "tap" events, and perform scrolling functions."
+    definition: "A touchpad is an input device used on most laptops to replace the mouse. The touchpad lets the user control the cursor by moving a finger over the pad's surface. Touchpads can have buttons, recognize \"tap\" events, and perform scrolling functions."
   },
   {
     term: "Touchscreen",
