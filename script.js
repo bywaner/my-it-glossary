@@ -8,8 +8,8 @@ function displayTerms(terms) {
     div.className = "term";
     div.innerHTML = `
       <h3>${entry.term}</h3>
-      <p><strong>Category:</strong> ${entry.category}</p>
-      <p>${entry.definition}</p>`;
+      <p>${entry.definition}</p>
+    `;
     resultsDiv.appendChild(div);
   });
 }
@@ -23,4 +23,5 @@ searchInput.addEventListener("input", () => {
   displayTerms(filtered);
 });
 
+// Show all terms by default on page load
 displayTerms(dictionary);
